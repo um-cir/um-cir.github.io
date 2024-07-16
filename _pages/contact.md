@@ -2,11 +2,10 @@
 layout: page
 permalink: /contact/
 title: Contact Us
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+:mailbox_with_mail: For any questions, please contact us at  [umcir.workshop@gmail.com](mailto:umcir.workshop@gmail.com)
 
-Organize your courses by years, topics, or universities, however you like!
