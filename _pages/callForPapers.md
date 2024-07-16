@@ -2,7 +2,7 @@
 layout: page
 permalink: /callForPapers/
 title: Call For Papers
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 2
 ---
@@ -10,7 +10,7 @@ nav_order: 2
 We invite researchers in machine learning and statistics to submit their latest work to the NeurIPS 2022 workshop on score-based methods.
 
 
-# key dates
+# Key dates
 
 * Submission deadline: **Sept 26, 2022 (11:59 pm AOE)**
 * Acceptance notification: **Oct 20, 2022**
