@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+description: Workshop organized in conjuction with SIGIR-AP 2024, 12 December 2024, Tokyo (Japan)
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 
