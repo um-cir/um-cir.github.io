@@ -2,14 +2,15 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <a href="{{ include.url | relative_url }}">
-    <div class="card hoverable">      
+    <div class="card hoverable">
       {%- include figure.html
       path=include.img
-      alt=include.name      
+      alt=include.name
       -%}
       <div class="card-body">
         <h5 class="card-title text-center">{{- include.name -}}</h5>
-        <p class="card-text text-center">{{- include.affiliation -}}</p>        
+        <p class="card-text text-center">{{- include.affiliation -}}</p>
+        <p class="card-text text-center">{{- include.country -}}</p>
       </div>
     </div>
   </a>
