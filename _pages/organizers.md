@@ -16,7 +16,7 @@ nav_order: 4
         {% include people.html name="Gareth J. F. Jones" affiliation="Dublin City University" country= "Ireland" url="https://www.computing.dcu.ie/~gjones/" img="/assets/img/people/gareth.jpg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Xiao Fu" affiliation="University College London" country= "United Kingdom" url="" img="assets/img/people/xiao.png" %}
+          {% include people.html name="Xiao Fu" affiliation="University College London" country= "United Kingdom" url="" img="assets/img/people/xiao.jpg" %}
       </div>
       <div class="w-100"></div>
       <div class="col-sm-4">
