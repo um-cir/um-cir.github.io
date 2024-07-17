@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-description: Workshop organized in conjuction with SIGIR-AP 2024, 12 December 2024, Tokyo (Japan)
-subtitle: UM-CIR 2024
+description: Co-located with SIGIR-AP: 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
+December 12, 2024, Tokyo, Japan
+subtitle: THE FIRST WORKSHOP ON USER MODELLING IN CONVERSATIONAL INFORMATION RETRIVAL
 
 
 news: true # includes a list of news items
