@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mega: :memo: **Call for papers officially opened!** Please see the [Call for Papers]("{{ '/callForPapers' | relative_url }}")!
+:mega: **Call for papers officially opened!** Please see details [here](https://um-cir.github.io/callForPapers/)!
