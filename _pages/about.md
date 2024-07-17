@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Co-located with SIGIR-AP: 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
+description: Co-located with SIGIR-AP 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
 December 12, 2024, Tokyo, Japan
 subtitle: THE FIRST WORKSHOP ON USER MODELLING IN CONVERSATIONAL INFORMATION RETRIVAL
 
