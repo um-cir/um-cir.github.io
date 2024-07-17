@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 
 ---
-  <div class="col-sm-4">
+  <div class="col-sm-8">
     <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Praveen Acharya" affiliation="Dublin City University" country= "Ireland" url="" img="/assets/img/people/praveen.jpg" %}
@@ -31,6 +31,6 @@ nav_order: 4
     </div>
   </div>
   <div class="col-sm-4">
-  <p>
+  <p> </p>
   </div>
 
