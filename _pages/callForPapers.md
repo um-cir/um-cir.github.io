@@ -13,10 +13,10 @@ We invite researchers in machine learning and statistics to submit their latest 
 ## Key dates
 
 * Submission website open: **September 01, 2024**
-* Submission deadline: **September 15, 2024 (11:59 pm AOE)**
+* Submission deadline: **September 15, 2024**
 * Acceptance notification: **September 30, 2024**
 * Workshop Date: **December 12, 2024**
-* 
+Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
 
 ## Themes and Topics
 
