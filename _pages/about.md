@@ -27,4 +27,5 @@ The workshop would be a half-day workshop with keynotes focusing on either in-de
 * Submission deadline: **September 15, 2024**
 * Acceptance notification: **September 30, 2024**
 * Workshop Date: **December 12, 2024**
+  
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
