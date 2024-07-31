@@ -14,7 +14,7 @@ social: false # includes social icons at the bottom of the page
 
 # About the Workshop
 
-Conversational Information Retrieval (CIR) has attracted growing research interest in recent years, particularly since the emergence of conversational agents based on generative AI methods. generally focus on complex interactive processes between searchers and CIR systems, with little interest in modelling the user within this process. The goal of this work is to provide a forum for the exploration of user modelling and its evaluation with CIR. In this workshop, we aim to collect views and proposals for user modelling with CIR, especially relating to algorithm system design, personalization, and how it might be simulated and evaluated.
+Conversational Information Retrieval (CIR) has attracted growing research interest in recent years, particularly since the emergence of conversational agents based on generative AI methods. Much of the research activity in CIR within the IR community has generally focused on complex interactive processes between searchers and CIR systems, with little interest in modelling the user within this processes. In this workshop, we aim to collect views and proposals for user modelling with CIR, especially relating to algorithm system design, personalization, and how it might be simulated and evaluated.
 
 The purpose of the workshop is to provide a forum for discussion on the user-centric approaches to conversational information retrieval. The main theme of the workshop is user modelling. The workshop will explore different areas relating to user modelling ranging from personalization, conversation modelling, user simulations and evaluation of CIR systems.
 
@@ -24,8 +24,11 @@ The workshop would be a half-day workshop with keynotes focusing on either in-de
 ## Key dates
 
 * Submission website open: **September 01, 2024**
-* Submission deadline: **September 15, 2024**
-* Acceptance notification: **September 30, 2024**
+* Submission deadline: **October 3, 2024**
+* Acceptance notification: **October 30, 2024**
 * Workshop Date: **December 12, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
+
+
+<!-- The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR -->
