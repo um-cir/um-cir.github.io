@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-We invite researchers in machine learning and statistics to submit their latest work to the UM-CIR 2024 workshop on user modelling aspects in conversational information retrieval.
+We invite researchers to submit their latest work to the UM-CIR 2024 workshop on user modelling aspects in conversational information retrieval.
 
 
 ## Key dates
@@ -60,11 +60,11 @@ Authors are invited to submit original, unpublished research papers that are not
 
 Submissions of papers must be at least 2 pages and at most 9 pages (including figures, tables, proofs, appendixes, acknowledgements, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
-All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.The review process of the submitted manuscripts will be done together with our programme committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
+All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.The review process of the submitted manuscripts will be done together with our programme committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting. The review process will be double-blind. Author names need to be anonymized. We plan to publish the proceedings at CEUR-WS.org
 
 <!-- We invite researchers to submit their recent work on the development, analysis, or application of score-based methods. A submission should take the form of a short paper of **4 pages in PDF** format using the **[template](/assets/templates/SBM_template.zip)**. Additional pages containing references and appendices are allowed. -->
 
-The review process will be double-blind. Author names need to be anonymized.
+
 <!-- Submissions may include a supplement/appendix, but reviewers are not responsible for reading any supplementary material. -->
 
 <!-- 
