@@ -18,7 +18,9 @@ Conversational Information Retrieval (CIR) has attracted growing research intere
 
 The purpose of the workshop is to provide a forum for discussion on the user-centric approaches to conversational information retrieval. The main theme of the workshop is user modelling. The workshop will explore different areas relating to user modelling ranging from personalization, conversation modelling, user simulations and evaluation of CIR systems.
 
-The workshop would be a half-day workshop with keynotes focusing on either in-depth analysis or broad-ranging approaches to conversational information retrieval. It will include an invited keynote speaker and presentations of the accepted papers. We will create break-out discussion groups based on the main research topics/themes that emerge from among the contributions. Following this we will have a discussion panel discussing the presented contributions from an integrated perspective. The results of the workshop will be published at the SIGIR Forum.
+The workshop would be a half-day workshop with keynotes focusing on either in-depth analysis or broad-ranging approaches to conversational information retrieval. It will include an invited keynote speaker and presentations of the accepted papers. We will create break-out discussion groups based on the main research topics/themes that emerge from among the contributions. Following this we will have a discussion panel discussing the presented contributions from an integrated perspective.
+
+Following the UM-CIR Workshop at SIGIR-AP 2024, a special workshop will be held the next day at the National Institute of Informatics (NII) in Tokyo, Japan. This event will continue to explore the core themes of UM-CIR, while also extending the discussion to emerging trends in conversational information retrieval. It offers participants another chance to delve into cutting-edge research and engage in in-depth discussions. For further details, visit ET-CIR Workshop. The results of the workshops will be published in the SIGIR Forum.
 
 
 ## Key dates
@@ -29,6 +31,11 @@ The workshop would be a half-day workshop with keynotes focusing on either in-de
 * Workshop Date: **December 12, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
+
+
+### Submission Link
+
+https://easychair.org/conferences/?conf=umcir2024
 
 
 <!-- The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR -->
