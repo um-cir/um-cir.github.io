@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 description: Co-located with SIGIR-AP :2<sup>nd</sup> International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
-subtitle: THE FIRST WORKSHOP ON USER MODELLING IN CONVERSATIONAL INFORMATION RETRIVAL
+subtitle: THE FIRST WORKSHOP ON USER MODELLING IN CONVERSATIONAL INFORMATION RETRIEVAL(UM-CIR)
 
 
 news: true # includes a list of news items
