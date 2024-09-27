@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bell: **Early Bird Registration** Please see details [here](https://www.sigir-ap.org/sigir-ap-2024/registration/)!
+:bell: **Early Bird Registration** Details [here](https://www.sigir-ap.org/sigir-ap-2024/registration/)!

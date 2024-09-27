@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bangbang:Extended Deadline:bangbang: The deadline for the submission of the paper has been extended. Please see details [here](https://um-cir.github.io/callForPapers/)!
+:bangbang:**Extended Deadline** :bangbang: The deadline for the submission of the paper has been extended. Further details [here](https://um-cir.github.io/callForPapers/)!
