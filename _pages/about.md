@@ -26,8 +26,8 @@ Following the UM-CIR Workshop at SIGIR-AP 2024, a special workshop will be held 
 ## Key dates
 
 * Submission website open: **September 01, 2024**
-* Submission deadline: **October 3, 2024**
-* Acceptance notification: **October 18, 2024**
+* Submission deadline: ~~**October 3, 2024**~~ **October 10, 2024**
+* Acceptance notification: ~~**October 18, 2024**~~ **October 28, 2024**
 * Workshop Date: **December 12, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).

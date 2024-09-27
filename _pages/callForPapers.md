@@ -14,8 +14,8 @@ Submission Website : https://easychair.org/conferences/?conf=umcir2024
 ## Key dates
 
 * Submission website open: **September 01, 2024**
-* Submission deadline: **October 3, 2024**
-* Acceptance notification: **October 18, 2024**
+* Submission deadline: ~~**October 3, 2024**~~ **October 10, 2024**
+* Acceptance notification: ~~**October 18, 2024**~~ **October 28, 2024**
 * Workshop Date: **December 12, 2024**
   
 Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
@@ -57,7 +57,7 @@ We encourage submissions that relate (but not limited) to the following themes a
 
 ## Submission Details
 
-Authors are invited to submit original, unpublished research papers that are not being considered for publication in any other forum. Manuscripts should be submitted electronically in PDF format following the workshop instructions [Submission Website](Submission Website : https://easychair.org/conferences/?conf=umcir2024). 
+Authors are invited to submit original, unpublished research papers that are not being considered for publication in any other forum. Manuscripts should be submitted electronically in PDF format following the workshop instructions [Submission Website](https://easychair.org/conferences/?conf=umcir2024). 
 
 Submissions of papers must be at least 2 pages and at most 9 pages (including figures, tables, proofs, appendixes, acknowledgements, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
