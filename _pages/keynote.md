@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /keynote/
-title: Immersive Personalisation for Conversational Information-seeking:The Future of Interactive
-Information Retrieval
+title: Call For Papers
 description:
-nav: true
-nav_order: 6
+nav: false
+nav_order: 2
 ---
 
 **Abstract**

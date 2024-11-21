@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-We are thrilled to announce that <a href="https://www.johannetrippas.com/">Dr. Johanne Trippas</a>, an expert in Conversational AI and Information Seeking research, will be delivering the keyonte speech at the workshop. [Further Detail](https://um-cir.github.io/keynote/)!
+We are thrilled to announce that <a href="https://www.johannetrippas.com/">Dr. Johanne Trippas</a>, an expert in Conversational AI and Information Seeking research, will be delivering the keyonte speech at the workshop. Details [here](https://um-cir.github.io/keynote/)!
 
 
 
