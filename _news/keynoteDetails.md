@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:bangbang:**Extended Deadline** :bangbang: The deadline for the submission of the paper has been extended. Further details [here](https://um-cir.github.io/callForPapers/)!
+We are thrilled to announce that <a href="https://www.johannetrippas.com/">Dr. Johanne Trippas</a>, an expert in Conversational AI and Information Seeking research, will be our keynote speaker at the UM-CIR 2024 workshop. [Further Detail](https://um-cir.github.io/keynote/)!
+
+
+
