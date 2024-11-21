@@ -4,7 +4,7 @@ permalink: /keynote/
 title: Immersive Personalisation for Conversational Information-seeking:The Future of Interactive
 Information Retrieval
 description:
-nav: false
+# nav: false
 # nav_order: 2
 ---
 
