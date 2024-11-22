@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /keynote/
-title: Call For Papers
+title: Immersive Personalisation for Conversational Information-seeking:The Future of Interactive Information Retrieval
 description:
 nav: false
 nav_order: 2
@@ -12,15 +12,14 @@ This talk imagines a future where information systems interactions go beyond sta
 
 This talk explores a future where conversational systems enable users to navigate and visualise complex, three-dimensional information spaces in real-time, transcending the static "ten blue links" paradigm. Through immersive personalisation, this talk explores how these advancements can revolutionise how we access knowledge, solve problems, and think critically. However, with great potential comes great responsibility. How do we balance personalisation with privacy? How do we ensure fairness while keeping these systems accessible and equitable for all? This vision highlights the power of user-centred design by reimagining the boundaries of what conversational systems can achieve. It is a call to create technology that answers questions and anticipates needs, adapting intuitively to the complexities of human interaction. In this future, engaging with information feels limitless, immersive, and deeply personal—designed for how we think and the world we imagine.
 
-<div class="col-sm-4">
+<div class="row projects pt-1 pb-1">
+    <div class="col-sm-4">
+    </div>
+    <div class="col-sm-4">
+        {% include people.html name="Johanne Trippas" affiliation="RMIT University" country= "Australia" url="" img="/assets/img/people/tripass.png" %}
+    </div>
+    <div class="col-sm-4">
+    </div>
 </div>
-<div class="col-sm-4">
-    {% include people.html name="Johanne Trippas" affiliation="RMIT University" country= "Australia" url="" img="/assets/img/people/trioass.png" %}
-</div>
-<div class="col-sm-4">
-</div>
-
-
-**Biography**
 
 Dr. Johanne Trippas is a Vice-Chancellor’s Research Fellow at RMIT University, Australia. Her work focuses on developing next-generation capabilities for intelligent systems, including spoken conversational search, digital assistants in cockpits, and artificial intelligence to identify cardiac arrests. Dr. Trippas is particularly interested in how conversational systems can revolutionise information seeking, especially through generative interactive information retrieval and novel interfaces beyond traditional text search. She has extensive experience analysing human information-seeking behaviour and developing novel approaches to personalised intelligent assistance, data-driven modelling, and profiling human behaviours. Dr. Trippas employs many research methods and consistently adopts user-centric data capture and analysis approaches, focusing on modelling and profiling human behaviours. Additionally, she is a member of the NIST TREC program committee, ACM CHIIR steering committee member, and SIGIR Artifact Evaluation Committee Vice-chair. Dr. Trippas serves on numerous information retrieval events, such as SWRIL’25’, resource & reproducibility chair (ACM SIGIR’25), workshop chair (ACM CHIIR’25), and technical program chair (ACM CHIIR'26).
