@@ -23,7 +23,7 @@ The workshop would be a half-day workshop with keynotes focusing on either in-de
 Following the UM-CIR Workshop at SIGIR-AP 2024, a special workshop will be held the next day at the National Institute of Informatics (NII) in Tokyo, Japan. This event will continue to explore the core themes of UM-CIR, while also extending the discussion to emerging trends in conversational information retrieval. It offers participants another chance to delve into cutting-edge research and engage in in-depth discussions. For further details, visit [ET-CIR Workshop](https://etcir.github.io/). The results of the workshops will be published in the SIGIR Forum.
 
 
-## Key dates
+<!-- ## Key dates
 
 * Submission website open: **September 01, 2024**
 * Submission deadline: ~~**October 3, 2024**~~ **October 10, 2024**
@@ -35,7 +35,7 @@ Note: All submission deadlines are 11:59 PM AoE Time Zone (Anywhere on Earth).
 
 ### Submission Link
 
-https://easychair.org/conferences/?conf=umcir2024
+https://easychair.org/conferences/?conf=umcir2024 -->
 
 
 <!-- The goal of this workshop is to provide a forum for the exploration of user modelling and its evaluation within CIR -->
