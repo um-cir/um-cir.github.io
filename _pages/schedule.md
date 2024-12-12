@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Tentative (TBC)
+description:
 nav: True
 nav_order: 3
 ---
